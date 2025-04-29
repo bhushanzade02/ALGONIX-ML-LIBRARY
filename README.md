@@ -3,7 +3,7 @@
 A lightweight machine learning library inspired by scikit-learn.
 
 ## Installation 
-### In your termianl just type
+### In your terminal just type
 ```bash
 pip install algonix
 ```
