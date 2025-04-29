@@ -13,7 +13,7 @@ pip install algonix
 
 Welcome to **Algonix**, a lightweight, beginner-friendly machine learning library built from scratch using Python and NumPy. Designed for learning and experimentation, this library provides transparent implementations of core ML algorithms without relying on external ML frameworks.
 
-📍 **GitHub Repository**: [https://github.com/bhushanzade02/MACHINE-LEARNING](https://github.com/bhushanzade02/MACHINE-LEARNING)
+📍 **GitHub Repository**: [https://github.com/bhushanzade02/ALGONIX-ML-LIBRARY](https://github.com/bhushanzade02/ALGONIX-ML-LIBRARY)
 
 ---
 
