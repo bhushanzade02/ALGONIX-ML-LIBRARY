@@ -1,4 +1,4 @@
-![Algonix Banner](algonix-banner.png)
+![Algonix Banner](algonix.png)
 
 
 # My ML Library ALGONIX
