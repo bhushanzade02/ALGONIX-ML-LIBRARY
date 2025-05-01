@@ -50,13 +50,10 @@ Welcome to **Algonix**, a lightweight, beginner-friendly machine learning librar
   - Adjusted R² Score
 
 ---
-
-## 🛠 Installation
-
-### 🔧 Local Installation (Development Mode)
+## 🔧 Local Installation (Development Mode)
 
 1. Clone the repository:
 
 ```bash
 git clone https://github.com/bhushanzade02/ALGONIX-ML-LIBRARY
-cd MACHINE-LEARNING
+cd ALGONIX-ML-LIBRARY
