@@ -1,3 +1,6 @@
+![Algonix Banner](algonix-banner.png)
+
+
 # My ML Library ALGONIX
 
 A lightweight machine learning library inspired by scikit-learn.
