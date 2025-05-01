@@ -58,5 +58,5 @@ Welcome to **Algonix**, a lightweight, beginner-friendly machine learning librar
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/bhushanzade02/MACHINE-LEARNING.git
+git clone https://github.com/bhushanzade02/ALGONIX-ML-LIBRARY
 cd MACHINE-LEARNING
